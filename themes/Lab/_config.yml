@@ -25,13 +25,13 @@ mathjax:
   src: https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
 
 lab:
-  name: 机器感知与计算智能实验室
+  name: CityU Wang Group
   background: /assets/img/background.jpg
   logo: /assets/img/logo.jpg
-  welcome: 欢迎访问机器感知与计算智能实验室
+  welcome: Welcome to CityU Wang Group
   image: https://bulma.io/assets/images/placeholders/600x480.png
   introduce: Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium, voluptatem repudiandae adipisci quod consequuntur eum quis quos vitae quasi nostrum facere quam. Fuga, perferendis! Unde tenetur provident corporis voluptatibus architecto accusantium consectetur et, dolores, non mollitia deserunt alias, atque recusandae pariatur commodi aut veritatis! Corporis quae dolor velit et, omnis praesentium quisquam, laboriosam reprehenderit animi id fugiat quia modi alias.
-  github: https://github.com/MAPLab
+  #github: https://github.com/MAPLab
   links:
     - name: 东北大学
       url: https://www.neu.edu.cn/
